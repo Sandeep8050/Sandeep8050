@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working as AI-ML Developer at Abhyudyaya Techno Solutions.
+🔭 I’m currently working on Abhyudyaya Techno Solutions as a AI-ML Developer<br>👯 I’m looking to collaborate on Web Development, AI-ML Development, Software Engineering.<br>🤝 I’m looking for help with Web Development, AI-ML Development, Software Engineering professional.<br>🌱 I’m currently learning Innovative Things in Web Development, AI-ML Development, Software Engineering.<br>💬 Ask me about my Projects and my experience
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@ I'm Currently working as AI-ML Developer at Abhyudyaya Techno Solutions.
 ![](https://github-readme-stats.vercel.app/api?username=Sandeep8050&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sandeep8050&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep8050&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sandeep8050&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sandeep8050&limit=5&theme=dark&combine_all_yearly_contributions=true)
