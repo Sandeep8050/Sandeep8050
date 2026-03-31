@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Abhyudyaya Techno Solutions as a AI-ML Developer<br>👯 I’m looking to collaborate on Web Development, AI-ML Development, Software Engineering.<br>🤝 I’m looking for help with Web Development, AI-ML Development, Software Engineering professional.<br>🌱 I’m currently learning Innovative Things in Web Development, AI-ML Development, Software Engineering.<br>💬 Ask me about my Projects and my experience
+# Hi, I'm Sandeep 👋
+🎓 Computer Science Graduate  
+💻 Interested in Embedded Systems / Software Development  
+🚀 Skilled in C, Python, Linux  
 
 
 ## 🌐 Socials:
