@@ -1,8 +1,8 @@
 # 💫 About Me:
 # Hi, I'm Sandeep 👋
 🎓 Computer Science Graduate  
-💻 Interested in Embedded Systems / Software Development  
-🚀 Skilled in C, Python, Linux  
+💻 Interested in AIML Development / Software Development  
+🚀 Skilled in Python, Flask, AIML, Web Development, Software Development, and Data Science.  
 
 
 ## 🌐 Socials:
